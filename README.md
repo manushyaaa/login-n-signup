@@ -4,7 +4,6 @@ Login and Registration Page using Flask and MongoDB<br>
 
 
 <h2>A simple begineer friendly Login and SignUP page for webapps and admin-dashboards<h2><br>
-<br>
 
 Backend : Python <br>
 Module : Flask <br>
