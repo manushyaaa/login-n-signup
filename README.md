@@ -7,5 +7,5 @@ Highly Scalable
 
 Backend : Python <br>
 Module : Flask <br>
-Styling : Bootstrap3 <br>
+Styling : Bootstrap <br>
 Database : MongoDB<br>
