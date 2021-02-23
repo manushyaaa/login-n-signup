@@ -1,0 +1,23 @@
+{% extends 'base.html' %}
+
+
+{% block content %}
+
+    <h1>
+        Home
+    </h1>
+    
+    <br>
+
+  
+        {% if current_user.is_authernticated %}
+        <h1>
+            Hi {{current_user.username}}
+        </h1>
+        {% else %}
+        <h1>
+            Please Login or Register
+        {% endif %}
+
+{% endblock content %}
+    
